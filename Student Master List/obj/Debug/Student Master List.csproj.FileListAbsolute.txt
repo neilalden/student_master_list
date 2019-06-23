@@ -1,0 +1,18 @@
+C:\Users\Lb\source\repos\Student Master List\Student Master List\bin\Debug\Student Master List.exe.config
+C:\Users\Lb\source\repos\Student Master List\Student Master List\bin\Debug\Student Master List.exe
+C:\Users\Lb\source\repos\Student Master List\Student Master List\bin\Debug\Student Master List.pdb
+C:\Users\Lb\source\repos\Student Master List\Student Master List\obj\Debug\Student Master List.csprojAssemblyReference.cache
+C:\Users\Lb\source\repos\Student Master List\Student Master List\obj\Debug\Student_Master_List.Home.resources
+C:\Users\Lb\source\repos\Student Master List\Student Master List\obj\Debug\Student_Master_List.Properties.Resources.resources
+C:\Users\Lb\source\repos\Student Master List\Student Master List\obj\Debug\Student Master List.csproj.GenerateResource.cache
+C:\Users\Lb\source\repos\Student Master List\Student Master List\obj\Debug\Student Master List.csproj.CoreCompileInputs.cache
+C:\Users\Lb\source\repos\Student Master List\Student Master List\obj\Debug\Student Master List.exe
+C:\Users\Lb\source\repos\Student Master List\Student Master List\obj\Debug\Student Master List.pdb
+C:\Users\Lb\source\repos\Student Master List\Student Master List\bin\Debug\Classes.mdf
+C:\Users\Lb\source\repos\Student Master List\Student Master List\bin\Debug\Classes_log.ldf
+C:\Users\Lb\source\repos\Student Master List\Student Master List\bin\Debug\Student Master List.exe.manifest
+C:\Users\Lb\source\repos\Student Master List\Student Master List\bin\Debug\Student Master List.application
+C:\Users\Lb\source\repos\Student Master List\Student Master List\obj\Debug\Student Master List.exe.manifest
+C:\Users\Lb\source\repos\Student Master List\Student Master List\obj\Debug\Student Master List.application
+C:\Users\Lb\source\repos\Student Master List\Student Master List\obj\Debug\Student_Master_List.searchTab.resources
+C:\Users\Lb\source\repos\Student Master List\Student Master List\obj\Debug\Student_Master_List.createClass.resources
